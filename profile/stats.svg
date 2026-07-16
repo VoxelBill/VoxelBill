@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">BJTMastermind's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 209, Total PRs: 27, Total Issues: 126, Contributed to (last year): 4</desc>
+        <title id="titleId">VoxelBill's GitHub Stats, Rank: B</title>
+        <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 210, Total PRs: 27, Total Issues: 126, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 145.31364344283907;
+        stroke-dashoffset: 145.2486737124683;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >BJTMastermind's GitHub Stats</text>
+      >VoxelBill's GitHub Stats</text>
     </g>
       </g>
     
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >209</text>
+      >210</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
