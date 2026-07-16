@@ -1,4 +1,4 @@
-### Hello, I am BJTMastermind
+### Hello, I am VoxelBill (Formerly known as BJTMastermind)
 
 * I started programming in January of 2018.
 * My favorite language is Java.
@@ -12,13 +12,13 @@
 
 <!--
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCiFDXb0SDboAOyZOzQHjw2w"><img width=36 height=32 alt="Youtube" src="https://github.com/BJTMastermind/BJTMastermind/blob/main/youtube-512.png"></a><br>
+  <a href="https://www.youtube.com/channel/UCiFDXb0SDboAOyZOzQHjw2w"><img width=36 height=32 alt="Youtube" src="https://github.com/VoxelBill/VoxelBill/blob/main/youtube-512.png"></a><br>
 Subscribe To My YouTube Channel
 </p>
 -->
 <br>
 
-![BJTMastermind's Stats](./profile/stats.svg)
+![VoxelBill's Stats](./profile/stats.svg)
 
 ![Top Langs](./profile/top-langs.svg)
 
